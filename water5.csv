@@ -1,0 +1,8 @@
+Search_terms,Paper_counts,Category
+TROUT AND (Watershed OR River) AND (runoff OR event OR flood OR discharge OR drought OR snowmelt) AND Gene,,Discharge
+TROUT AND (Watershed OR River) AND (Sediment OR erosion OR debris OR turbidity OR particulate ) AND Gene,,Sediment
+TROUT AND (Watershed OR River) AND (carbon OR nitrogen OR organic OR phosphorus OR oxygen OR silica OR niutrient) AND Gene,,Chemical
+TROUT AND (Watershed OR River) AND (temperature) AND Gene,,Temperature
+TROUT AND (Watershed OR River) AND (algae OR macroinvertebrate OR food web) AND Gene,,Food web
+TROUT AND (Watershed OR River) AND (metabolism OR primary productivity) AND Gene,,Metabolism
+TROUT AND (Watershed OR River) AND (metal OR arsenic) AND Gene,,Toxic

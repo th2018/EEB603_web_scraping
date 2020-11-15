@@ -1,0 +1,27 @@
+Search_terms,Paper_counts,category
+wildfire AND watershed AND sediment,,abiotic
+wildfire AND watershed AND turbidity,,abiotic
+wildfire AND watershed AND discharge,,abiotic
+wildfire AND watershed AND event,,abiotic
+wildfire AND watershed AND snowmelt,,abiotic
+wildfire AND watershed AND drought,,abiotic
+wildfire AND watershed AND water temperature,,abiotic
+wildfire AND watershed AND runoff,,abiotic
+wildfire AND watershed AND flood,,abiotic
+wildfire AND watershed AND debris,,abiotic
+wildfire AND watershed AND erosion,,abiotic
+wildfire AND watershed AND salt,,abiotic
+wildfire AND watershed AND habitat,,biotic
+wildfire AND watershed AND algae,,biotic
+wildfire AND watershed AND bacteria,,biotic
+wildfire AND watershed AND trout,,biotic
+wildfire AND watershed AND fish,,biotic
+wildfire AND watershed AND Microbial,,biotic
+wildfire AND watershed AND organic matter,,chemical
+wildfire AND watershed AND carbon,,chemical
+wildfire AND watershed AND nitrogen,,chemical
+wildfire AND watershed AND phosphorus,,chemical
+wildfire AND watershed AND silica,,chemical
+wildfire AND watershed AND oxygen,,chemical
+wildfire AND watershed AND metal,,toxic
+wildfire AND watershed AND arsenic,,toxic

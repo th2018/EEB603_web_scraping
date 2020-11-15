@@ -1,0 +1,11 @@
+Search_terms,Paper_counts,Category
+Wildfire AND Watershed AND (runoff OR event OR flood OR discharge OR drought OR snowmelt),308,Discharge
+Wildfire AND Watershed AND (Sediment OR erosion OR debris OR turbidity OR particulate ),284,Sediment
+Wildfire AND Watershed AND (carbon OR nitrogen OR organic OR phosphorus OR oxygen OR silica OR niutrient),188,Chemical
+Wildfire AND Watershed AND (temperature),65,Temperature
+Wildfire AND Watershed AND (fish OR trout),35,Fish
+Wildfire AND Watershed AND (algae OR macroinvertebrate OR food web),18,Food web
+Wildfire AND Watershed AND (metabolism OR primary productivity),15,Metabolism
+Wildfire AND Watershed AND (metal OR arsenic),12,Toxic
+Wildfire AND Watershed AND (Microbial OR  bacteria),10,Microbial
+Wildfire AND Watershed AND (salt OR de-icing),5,Salt
